@@ -19,7 +19,7 @@
 <h2>Resultados de Aprendizados:</h2>
 
 <ul>
-<a href="https://github.com/priscilaroverssi/rexletras"> Rex-Letras - Jogo Desenvolvido no GDevelop
+<li><p><a href="https://github.com/priscilaroverssi/rexletras"> Rex-Letras - Jogo Desenvolvido no GDevelop</li></p>
 <li><p><a href="https://gx.games/pt-br/studios/112c2972-0263-4f57-8e71-db3144550605/">Primeiro Jogo Desenvolvido com Game Maker</a> - <a href="https://github.com/priscilaroverssi/pacskatecriadonogamemaker"> Repositório</a></p></li>
 <li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_a-propriedade-list-style-%C3%A9-usada-em-css-para-activity-7140727376665124864-ekwu?utm_source=share&utm_medium=member_desktop">Lists-Style</a> - <a href="https://github.com/priscilaroverssi/List-style">Repositório</a></p></li>
 <li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_o-html-sigla-para-hypertext-markup-language-activity-7134914703817883650-j3V-?utm_source=share&utm_medium=member_desktop">Títulos e Links</a> - <a href="https://github.com/priscilaroverssi/tituloselinks">Repositório</a></p></li>
