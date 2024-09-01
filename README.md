@@ -31,6 +31,4 @@ Ao me aprofundar nesses domínios, encontrei não apenas habilidades técnicas, 
 <li><p><a href="https://app.powerbi.com/groups/me/reports/c0611547-8957-4d0b-a9cb-870180f60aec/ReportSection?experience=power-bi"> Análise de Vendas, Projeto Power BI</a></p></li>
 
 
-![Priscila GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilaroverssi&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaroverssi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
