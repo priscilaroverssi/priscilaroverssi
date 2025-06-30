@@ -4,13 +4,10 @@
 
 <h1>🙋‍♀️Olá! Eu sou a Priscila Roverssi</h1>
 <p></p>📚 Análises e Desenvolvimento de Sistemas</p>
-<p>📚 Webdesign Front-end - HTML, CSS, Lógica de programação e Javascript</p>
-<p>📚 C, Python, SQL</p>
-<p>📚 Power BI</p>
-<p>💻 Experiência com GameMaker e GDevelope</p>
 
-<p>💡 Explorando o vasto campo da tecnologia em busca de especializações, descobri minha verdadeira vocação a cada etapa. Essa jornada me levou a investir em uma graduação em Análise e Desenvolvimento de Sistemas e a aprofundar meus conhecimentos em React, TypeScript, JavaScript, HTML, CSS, SQL, Python, Power BI e Automate. 
-Ao me aprofundar nesses domínios, encontrei não apenas habilidades técnicas, mas também uma paixão que impulsiona minha trajetória profissional. 💡
+<p>💡 Desenvolvedora Full Stack com experiência no desenvolvimento de aplicações modernas e responsivas. Atuo com foco em tecnologias como React, TypeScript, JavaScript, Node.js e integração com bancos de dados Firebase, MySQL e MongoDB.
+Possuo também conhecimentos em engenharia de dados e ciência de dados, adquiridos por meio de bootcamps como o Microsoft Certification Challenge DP-100, com fundamentos de Machine Learning com Azure, e Engenharia de Dados com Python, com foco em ETL, Pandas e consumo de APIs REST.
+Busco oportunidades para aplicar soluções escaláveis, seguras e de alta performance, contribuindo para o crescimento de projetos inovadores e colaborando em equipes ágeis e multidisciplinares. 💡
 
 [![Games](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199581582352/)
 [![Games](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://library.playstation.com/recently-played)
