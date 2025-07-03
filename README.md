@@ -19,10 +19,6 @@ Busco oportunidades para aplicar soluções escaláveis, seguras e de alta perfo
 <li><p><a href="https://github.com/priscilaroverssi/resultados"> Repositório - Resultados Encontrados com JavaScript</p>
 <li><p><a href="https://github.com/priscilaroverssi/rexletras"> Rex-Letras - Jogo Desenvolvido no GDevelop</li></p>
 <li><p><a href="https://gx.games/pt-br/games/8e18rf/pac-skate/">Primeiro Jogo Desenvolvido com Game Maker</a> | <a href="https://github.com/priscilaroverssi/pacskatecriadonogamemaker"> Repositório</a></p></li>
-<li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_a-propriedade-list-style-%C3%A9-usada-em-css-para-activity-7140727376665124864-ekwu?utm_source=share&utm_medium=member_desktop">Lists-Style</a> | <a href="https://github.com/priscilaroverssi/List-style">Repositório</a></p></li>
-<li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_o-html-sigla-para-hypertext-markup-language-activity-7134914703817883650-j3V-?utm_source=share&utm_medium=member_desktop">Títulos e Links</a> | <a href="https://github.com/priscilaroverssi/tituloselinks">Repositório</a></p></li>
-<li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_pseudo-classes-s%C3%A3o-seletores-especiais-em-activity-7140739378011684864-Rg5R?utm_source=share&utm_medium=member_desktop">Pseudo-classes</a> | <a href="https://github.com/priscilaroverssi/pseudoclasses"> Repositório</a></p></li>
-<li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_cada-novo-aprendizado-%C3%A9-uma-jornada-que-amplia-activity-7140740521026633729-mBvr?utm_source=share&utm_medium=member_desktop">Box Model</a> | <a href="https://github.com/priscilaroverssi/boxmodel"> Repositório </a></p></li>
 <li><p><a href="https://app.powerbi.com/groups/me/reports/5cf75e44-fb6f-41dc-94b2-4e94e7b41620/ReportSection?experience=power-bi">Análise de Serviço de Atendimento ao Consumidor (SAC), Projeto Power BI</a></p></li>
 <li><p><a href="https://app.powerbi.com/groups/me/reports/c0611547-8957-4d0b-a9cb-870180f60aec/ReportSection?experience=power-bi"> Análise de Vendas, Projeto Power BI</a></p></li>
 
