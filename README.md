@@ -16,7 +16,6 @@ Busco oportunidades para aplicar soluções escaláveis, seguras e de alta perfo
 <h2>Resultados de Aprendizados:</h2>
 
 <ul>
-<li><p><a href="https://priscilaroverssi.github.io/projetogaragem">Projeto Garagem</a> | <a href="https://github.com/priscilaroverssi/projetogaragem"> Repositório</a></p></li>
 <li><p><a href="https://github.com/priscilaroverssi/resultados"> Repositório - Resultados Encontrados com JavaScript</p>
 <li><p><a href="https://github.com/priscilaroverssi/rexletras"> Rex-Letras - Jogo Desenvolvido no GDevelop</li></p>
 <li><p><a href="https://gx.games/pt-br/games/8e18rf/pac-skate/">Primeiro Jogo Desenvolvido com Game Maker</a> | <a href="https://github.com/priscilaroverssi/pacskatecriadonogamemaker"> Repositório</a></p></li>
