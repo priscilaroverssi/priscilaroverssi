@@ -16,9 +16,13 @@ Busco oportunidades para aplicar soluções escaláveis, seguras e de alta perfo
 <h2>Resultados de Aprendizados:</h2>
 
 <ul>
-<li><p><a href="https://github.com/priscilaroverssi/resultados"> Repositório - Resultados Encontrados com JavaScript</p>
+<li><p><a href="https://github.com/priscilaroverssi/resultados"> Resultados Encontrados com JavaScript</p>
 <li><p><a href="https://github.com/priscilaroverssi/rexletras"> Rex-Letras - Jogo Desenvolvido no GDevelop</li></p>
-<li><p><a href="https://gx.games/pt-br/games/8e18rf/pac-skate/">Primeiro Jogo Desenvolvido com Game Maker</a> | <a href="https://github.com/priscilaroverssi/pacskatecriadonogamemaker"> Repositório</a></p></li>
+<li><p><a href="https://gx.games/pt-br/games/8e18rf/pac-skate/"> Primeiro Jogo Desenvolvido com Game Maker</a> | <a href="https://github.com/priscilaroverssi/pacskatecriadonogamemaker"> Repositório</a></p></li>
+<li><p><a href="https://github.com/priscilaroverssi/lavarapidofrontend"> Site Lava-Rápido Front-end</a>
+<li><p><a href="https://github.com/priscilaroverssi/lavarapidobackend"> Site Lava-Rápido Back-end</a>
+<li><p><a href="https://github.com/priscilaroverssi/furiafront-end"> Projeto "Fúria" Front-End</a>
+<li><p><a href="https://github.com/priscilaroverssi/furiabackend"> Projeto "Fúria" Back-End</a>
 <li><p><a href="https://app.powerbi.com/groups/me/reports/5cf75e44-fb6f-41dc-94b2-4e94e7b41620/ReportSection?experience=power-bi">Análise de Serviço de Atendimento ao Consumidor (SAC), Projeto Power BI</a></p></li>
 <li><p><a href="https://app.powerbi.com/groups/me/reports/c0611547-8957-4d0b-a9cb-870180f60aec/ReportSection?experience=power-bi"> Análise de Vendas, Projeto Power BI</a></p></li>
 
