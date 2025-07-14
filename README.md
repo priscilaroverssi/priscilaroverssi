@@ -23,8 +23,6 @@ Busco oportunidades para aplicar soluções escaláveis, seguras e de alta perfo
 <li><p><a href="https://github.com/priscilaroverssi/lavarapidobackend"> Site Lava-Rápido Back-end</a>
 <li><p><a href="https://github.com/priscilaroverssi/furiafrontend"> Projeto "Fúria" Front-End</a>
 <li><p><a href="https://github.com/priscilaroverssi/furiabackend"> Projeto "Fúria" Back-End</a>
-<li><p><a href="https://app.powerbi.com/reportEmbed?reportId=5cf75e44-fb6f-41dc-94b2-4e94e7b41620&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb">Análise de Serviço de Atendimento ao Consumidor (SAC), Projeto Power BI</a></p></li>
-<li><p><a href="https://app.powerbi.com/reportEmbed?reportId=c0611547-8957-4d0b-a9cb-870180f60aec&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb"> Análise de Vendas, Projeto Power BI</a></p></li>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaroverssi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
